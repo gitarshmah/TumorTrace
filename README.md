@@ -23,13 +23,16 @@ To run this project locally, make sure you have the following installed:
 - CUDA (if using GPU for training)
 
 
-
+### Project Structure
+```
 TumorTrace/
 │
 ├── data/                # Folder for training and testing datasets
+│   ├── train/           # Training dataset
+│   └── test/            # Test dataset
 ├── models/              # Saved models
 ├── train.py             # Training script
 ├── test.py              # Testing script
 ├── requirements.txt     # List of dependencies
-└── README.md            # This file
-
+└── README.md            # Project overview and instructions
+```
