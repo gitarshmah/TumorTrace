@@ -1,4 +1,4 @@
-#TumorTrace: AI-based MRI Scanning for Breast Cancer Patients
+# TumorTrace: AI-based MRI Scanning for Breast Cancer Patients
 
 ## TumorTrace is a deep learning project aimed at classifying tumor images based on their features. It utilizes computer vision techniques and neural networks to automate the detection of tumors in medical images. The project leverages advanced image processing and machine learning methods to help healthcare professionals in the early detection and diagnosis of tumors.
 
