@@ -4,23 +4,23 @@
 
 ## Features
 
-💾 Image Classification: Classifies tumor images into categories like benign or malignant.
+💾 **Image Classification**: Classifies tumor images into categories like benign or malignant.
 
-🧐 Deep Learning Model: Uses Convolutional Neural Networks (CNN) for efficient feature extraction and classification.
+🧐 **Deep Learning Model**: Uses Convolutional Neural Networks (CNN) for efficient feature extraction and classification.
 
-🔄 Data Preprocessing: Includes data augmentation, normalization, and splitting into training and testing sets.
+🔄 **Data Preprocessing**: Includes data augmentation, normalization, and splitting into training and testing sets.
 
 ## Technologies Used
 
-🐉 Python: The primary programming language for implementation.
+🐉 **Python**: The primary programming language for implementation.
 
-💪 PyTorch: Deep learning framework used for model development.
+💪 **PyTorch**: Deep learning framework used for model development.
 
-🔠 OpenCV: Image processing library used for preprocessing images.
+🔠 **OpenCV**: Image processing library used for preprocessing images.
 
-🌄 Scikit-learn: For additional machine learning tools and metrics.
+🌄 **Scikit-learn**: For additional machine learning tools and metrics.
 
-🎨 Matplotlib: For visualizing training progress and results.
+🎨 **Matplotlib**: For visualizing training progress and results.
 
 ## Getting Started
 
@@ -28,30 +28,29 @@
 
 To run this project locally, make sure you have the following installed:
 
-Python 3.x
-
-pip (Python package installer)
-
-CUDA (if using GPU for training)
+- Python 3.x
+- pip (Python package installer)
+- CUDA (if using GPU for training)
 
 ## Installation
 
 ### Clone the repository:
-...
-
+```bash
 git clone https://github.com/yourusername/TumorTrace.git
-...
+```
 
 ### Navigate to the project directory:
-
+```bash
 cd TumorTrace
+```
 
 ### Install the required dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 ## Project Structure
-
+```
 TumorTrace/
 │
 ├── data/                # Folder for training and testing datasets
@@ -70,24 +69,24 @@ TumorTrace/
 ├── requirements.txt     # List of dependencies
 ├── README.md            # Project overview and instructions
 └── LICENSE              # License information
+```
 
 ## Usage
 
 ### Training the Model
 
 To train the model, run:
+```bash
+python train.py
+```
 
--python train.py
-
-Testing the Model
+### Testing the Model
 
 To test the model, run:
-
--python test.py
+```bash
+python test.py
+```
 
 ### Visualizations
 
-Use the Jupyter notebooks in the notebooks/ directory to explore data visualizations and model performance.
-
-
-
+Use the Jupyter notebooks in the `notebooks/` directory to explore data visualizations and model performance.
