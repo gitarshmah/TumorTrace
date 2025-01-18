@@ -1,0 +1,6 @@
+contribution:
+data collection
+model training
+accuracy of model:
+training accuracy: 94%
+validation accuracy: 92%
