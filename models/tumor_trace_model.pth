@@ -1,4 +1,0 @@
-model.load_state_dict(torch.load("model.pth"))  # Load the saved model
-model.eval()  # Set the model to evaluation mode
-
-# Now you can test the model with test data
