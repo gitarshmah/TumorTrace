@@ -53,40 +53,18 @@ pip install -r requirements.txt
 ```
 TumorTrace/
 │
-├── data/                # Folder for training and testing datasets
-│   ├── train/           # Training dataset
-│   └── test/            # Test dataset
+├── dataset/                # Dataset folder
+│   ├── class1          
+│   └── class2            
+│   └── class3            
 ├── models/              # Folder for saved models
-├── notebooks/           # Jupyter notebooks for experiments and visualizations
-├── scripts/             # Helper scripts for data processing and evaluation
-├── src/                 # Source code for the project
-│   ├── __init__.py      # Initialize the src package
-│   ├── dataset.py       # Dataset loading and preprocessing
-│   ├── model.py         # Model architecture definition
-│   └── utils.py         # Utility functions
-├── train.py             # Training script
-├── test.py              # Testing script
+├── Project Code/                 # Source code for the project
+│   ├── model_training.py       # Model train code
+│   └── model_test.py          # model test code           
 ├── requirements.txt     # List of dependencies
 ├── README.md            # Project overview and instructions
 └── LICENSE              # License information
 ```
 
-## Usage
-
-### Training the Model
-
-To train the model, run:
-```bash
-python train.py
-```
-
-### Testing the Model
-
-To test the model, run:
-```bash
-python test.py
-```
-
-### Visualizations
-
-Use the Jupyter notebooks in the `notebooks/` directory to explore data visualizations and model performance.
+## Contributor
+Garv kumar
