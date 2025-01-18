@@ -67,4 +67,5 @@ TumorTrace/
 ```
 
 ## Contributor
-Garv kumar
+
+Garv Kumar
