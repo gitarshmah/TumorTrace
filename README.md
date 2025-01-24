@@ -68,4 +68,6 @@ TumorTrace/
 
 ## Contributor
 
-Garv Kumar
+<a href="https://github.com/thatgirlAnansi/TumorTrace/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thatgirlAnansi/TumorTrace" />
+</a>
