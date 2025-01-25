@@ -67,5 +67,9 @@ TumorTrace/
 ```
 
 ## Contributor
+A big shoutout and heartfelt thanks to all our amazing contributors for their incredible efforts and dedication! This project wouldn’t be where it is without you.💖
 
-Garv Kumar
+
+<a href="https://github.com/thatgirlAnansi/TumorTrace/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thatgirlAnansi/TumorTrace" />
+</a>
